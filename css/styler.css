@@ -134,6 +134,14 @@
     margin-bottom: 2rem;
     margin-right: 2rem;
 }
+
+@media screen and (max-width: 480px) {
+    .mySkill li{
+        width: 50%;
+        margin-bottom: 1rem;
+    }
+}
+
 /* animation */
 @keyframes BtnRotate{
     0%{
