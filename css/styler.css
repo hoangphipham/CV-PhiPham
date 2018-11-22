@@ -42,16 +42,16 @@
     background: rgba(0, 0, 0, 0.3);
     padding-top: 10rem;
 }
-.fb-btn{
-    background-color: #6c0;
-    border: 2px solid #000000;
-    padding: 0.5rem 1rem;
+.myCover i{
+    font-size: 25px;
+    color: #fff;
+    padding-right: 2rem;
 }
-.fb-btn:hover{
+.myCover i:hover{
     animation: BtnRotate 1s infinite 0s linear;
 }
-.overlay h2, .overlay h3{
-    color: #6c0;
+.overlay h1, .overlay h2{
+    color: #fff;
     font-weight: bold;
     letter-spacing: 4px;
 }
