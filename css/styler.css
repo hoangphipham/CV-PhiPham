@@ -135,6 +135,28 @@
     margin-right: 2rem;
 }
 
+
+/* modal */
+.modalImg{
+    width: 100%;
+}
+.modalPortfolio{
+    top: 50px !important;
+}
+.modalPortfolio h4{
+    color: #1a6673
+}
+.modalPortfolio ul{
+    list-style-type: none;
+}
+.modalPortfolio .modalBTN{
+    background-color: #1a6673;
+}
+.modalPortfolio .modalBTN:hover{
+    color: white;
+    font-weight: bold;
+}
+
 @media screen and (max-width: 480px) {
     .mySkill li{
         width: 50%;
